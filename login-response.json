@@ -1,0 +1,109 @@
+{
+    "ValidarIngreso51Response": {
+        "headerOut": {
+            "dispositivo": null,
+            "empresa": "",
+            "canal": "",
+            "medio": "",
+            "aplicacion": "",
+            "agencia": null,
+            "tipoTransaccion": "",
+            "geolocalizacion": ,
+            "usuario": "",
+            "unicidad": ,
+            "guid": "a9381aab-63f5-4fe4-9a6c-67512dbe37d6",
+            "fechaHora": "202207220912500524",
+            "filler": null,
+            "idioma": "es-EC",
+            "sesion": "51051097-9bc2-4bc1-a0f0-141c30bde4f4",
+            "ip": "157.100.93.233",
+            "idCliente": null,
+            "tipoIdCliente": null,
+            "documento": {
+                "fechaContable": null,
+                "numeroDocumento": null,
+                "journals": {
+                    "journal": [
+                        {
+                            "valor": null
+                        }
+                    ]
+                }
+            }
+        },
+        "bodyOut": {
+            "flujo": {
+                "estado": "finalizar",
+                "campos": {
+                    "campo": [
+                        {
+                            "clave": "dispositivo",
+                            "valor": "Lj8ab58eRKeAwSdzBCeDEuaW4+CrJm1yikn29BSsDO4="
+                        },
+                        {
+                            "clave": "tipoIdCliente",
+                            "valor": "0001"
+                        },
+                        {
+                            "clave": "idCliente",
+                            "valor": "999888777666"
+                        },
+                        {
+                            "clave": "ultimoLogin",
+                            "valor": "2023-01-12 12:54:13.246"
+                        },
+                        {
+                            "clave": "Cif",
+                            "valor": "1234567"
+                        },
+                        {
+                            "clave": "medio",
+                            "valor": "6545678"
+                        },
+                        {
+                            "clave": "aplicacion",
+                            "valor": "00663"
+                        },
+                        {
+                            "clave": "canal",
+                            "valor": "03"
+                        },
+                        {
+                            "clave": "confianzaSesion",
+                            "valor": "Baja"
+                        },
+                        {
+                            "clave": "uuidCliente",
+                            "valor": "dfrt56gdfger6456334534"
+                        },
+                        {
+                            "clave": "perfilCliente",
+                            "valor": "Validado"
+                        },
+                        {
+                            "clave": "estadoFactorSeguridad",
+                            "valor": "1"
+                        },
+                        {
+                            "clave": "tipoFactorSeguridad",
+                            "valor": "1"
+                        },
+                        {
+                            "clave": "contadorFactorSeguridad",
+                            "valor": "0"
+                        }
+                    ]
+                }
+            }
+        },
+        "error": {
+            "codigo": "0",
+            "mensaje": "OK",
+            "mensajeNegocio": "Transaccion exitosa.",
+            "tipo": "INFO",
+            "recurso": "Login",
+            "componente": "Login",
+            "backend": "54321"
+        }
+    }
+}
