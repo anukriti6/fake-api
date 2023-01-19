@@ -1,31 +1,31 @@
 {
     "ValidarIngreso51Response": {
         "headerOut": {
-            "dispositivo": null,
+            "dispositivo": "",
             "empresa": "",
             "canal": "",
             "medio": "",
             "aplicacion": "",
-            "agencia": null,
+            "agencia": "",
             "tipoTransaccion": "",
             "geolocalizacion": ,
             "usuario": "",
             "unicidad": ,
             "guid": "a9381aab-63f5-4fe4-9a6c-67512dbe37d6",
             "fechaHora": "202207220912500524",
-            "filler": null,
+            "filler": "",
             "idioma": "es-EC",
             "sesion": "51051097-9bc2-4bc1-a0f0-141c30bde4f4",
             "ip": "157.100.93.233",
-            "idCliente": null,
-            "tipoIdCliente": null,
+            "idCliente": "",
+            "tipoIdCliente": "",
             "documento": {
-                "fechaContable": null,
-                "numeroDocumento": null,
+                "fechaContable": "",
+                "numeroDocumento": "",
                 "journals": {
                     "journal": [
                         {
-                            "valor": null
+                            "valor": ""
                         }
                     ]
                 }
